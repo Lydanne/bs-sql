@@ -14,3 +14,7 @@ body {
 nextjs-portal {
   display: none;
 }
+
+body {
+  background: #fff;
+}
